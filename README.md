@@ -3,7 +3,7 @@
 
 Distributed tasks with Twisted
 
-## Installation requirements
+### Installation requirements
 
 * Python 2.7+
 * Python packages
@@ -15,6 +15,6 @@ Distributed tasks with Twisted
 
 Recommended installation of the python packages (in a ``virtualenv``):
 
-$ pip install -r requirements.txt
+    $ pip install -r requirements.txt
 
-$ pip install -r test_requirements.txt
+    $ pip install -r test_requirements.txt
